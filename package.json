@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "vercel-build": "./setup.sh && next build"
+  }
+}
